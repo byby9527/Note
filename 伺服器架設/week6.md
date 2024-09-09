@@ -1,6 +1,7 @@
-## samba用途:讓Window與linux間的資源共享
+### samba用途:讓Window與linux間的資源共享
 
-## nfs用途:讓Linux與其他linux間的資源共享
+### nfs用途:讓Linux與其他linux間的資源共享
+
 
 ## samba 在window和linux(7-2)虛擬機資源共享:
 ### 此操作在7-2操作:
