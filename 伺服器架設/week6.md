@@ -2,9 +2,6 @@
 
 ## nfs用途:讓Linux與其他linux間的資源共享
 
-## 使用SAMDA server，可以在Window
-
-
 ## samba 在window和linux(7-2)虛擬機資源共享:
 ### 此操作在7-2操作:
 
