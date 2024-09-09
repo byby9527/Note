@@ -1,7 +1,11 @@
 ## 如果伺服器不能執行，請執行以下指令:
 
-### 1. 使用super user 2.getenforce->Disabled  3. systemctl status firewalld —>inactive 4.netstat -tunlp | grep xxx 檢查開啟的port
-
+```
+1. 使用super user
+2.getenforce->Disabled
+3. systemctl status firewalld —>inactive
+4.netstat -tunlp | grep xxx 檢查開啟的port
+```
 
 
 
