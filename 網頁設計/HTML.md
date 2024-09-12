@@ -1,6 +1,5 @@
-# HTML
-
-### 所有 HTML文檔都必須以文檔類型聲明開頭：```< !DOCTYPE html >```
+## HTML
+所有 HTML文檔都必須以文檔類型聲明開頭：```< !DOCTYPE html >```
 HTML文檔本身以.開頭< html >和結尾< /html >。
 HTML文檔的可見部分在< body >和之間< /body >。
  ---
