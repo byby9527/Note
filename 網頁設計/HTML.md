@@ -1,7 +1,7 @@
 # HTML
-所有 HTML文檔都必須以文檔類型聲明開頭：```< !DOCTYPE html >```
-HTML文檔本身以.開頭< html >和結尾< /html >。
-HTML文檔的可見部分在< body >和之間< /body >。
+### 所有 HTML文檔都必須以文檔類型聲明開頭：```< !DOCTYPE html >```
+### HTML文檔本身以.開頭< html >和結尾< /html >。
+### HTML文檔的可見部分在< body >和之間< /body >。
  ---
 ### 鏈結
 HTML鏈接是用```<a>```標籤定義的：
