@@ -123,4 +123,4 @@ div {
 }
 ```
 
-### 筆記參考網站:[https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
+### 筆記參考網站:[https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
